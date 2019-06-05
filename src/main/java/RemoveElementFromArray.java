@@ -17,7 +17,7 @@ public class RemoveElementFromArray {
                 int[] newArr = removeElementFromArray(arr, i);
 
                 //in ra mang moi sau khi xoa
-                System.out.println("Mang moi co sau khi xoa co cac phan tu");
+                System.out.println("Mang moi sau khi xoa co cac phan tu");
                 for (int value : newArr) {
                     System.out.print(value);
                     System.out.print("\t");
